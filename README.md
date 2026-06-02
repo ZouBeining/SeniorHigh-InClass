@@ -1,0 +1,9 @@
+<a href="https://github.com/ZouBeining/SeniorHigh-InClass">SeniorHigh-InClass</a> © 2026 by <a href="https://github.com/ZouBeining">邹贝宁</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;" width="19.199996948242188" height="19.199996948242188"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;" width="19.199996948242188" height="19.199996948242188"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;" width="19.20001220703125" height="19.199996948242188">
+
+笔者是江苏省天一中学2025级强化班在校生。
+
+笔者创建这个仓库的目的是无偿地分享他在高中课内学习中所积累的笔记、讲义、经验教训等，并希望以本仓库为契机，结识一些志同道合的同龄人。
+
+本仓库采用 Attribution-NonCommercial 4.0 International 协议（以下称“该协议”或“CC BY-NC 4.0 协议”），该协议由 Creative Commons 制定并发布。笔者在这里列出该协议的[官方网址](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)以及[官方中文翻译](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans)。笔者建议在以任何方式复制、使用或传播本仓库内的文件前，阅读 CC BY-NC 4.0 协议的原文，并浏览 Creative Commons 官方对该协议的解释。鉴于协议原文较长且相对晦涩，笔者在此展示一份对 Creative Commons 制定和发布的一系列协议的[简要说明](https://blog.csdn.net/qq_41084756/article/details/148339050)。
+
+为使资料清晰、易读，以及考虑到笔者的个人好恶，笔者暂时决定：本仓库内的所有 Markdown 文档的格式均应遵循[《少数派风格指南》](https://manual.sspai.com/rules/style/)；所有 LaTeX 文件均应使用[latexzero](https://github.com/fenglielie/latexzero)仓库下的格式文件，并且应该在导言区使用`\input()`函数将格式文件软性地引入，而非直接将代码复制到导言区。关于格式问题，欢迎大家多提意见，笔者争取使本仓库内的资料呈现出大多数人满意的效果。
